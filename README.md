@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-FBlanc
-- 🌱 I’m a PhD student working in Coastal Ecology at Åbo Akademi University. I work on biodiversity in Fucus vesiculosus belts and uses R-Studio frequently
+- 🌊 I’m a PhD student working in Coastal Ecology at Åbo Akademi University. I work on biodiversity in Fucus vesiculosus belts and uses R-Studio frequently
 - 📫 How to reach me:
   - Email: jean-f.blanc@hotmail.fr
   - Twitter / 𝕏: [@Marine_JFBlanc](https://twitter.com/Marine_JFBlanc)
